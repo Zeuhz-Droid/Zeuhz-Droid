@@ -37,8 +37,8 @@ I am currently proficient in:
 
 <p align="left"> <a href="https://twitter.com/zeuhzdroid" target="blank"><img src="https://img.shields.io/twitter/follow/zeuhzdroid?logo=twitter&style=for-the-badge" alt="zeuhzdroid" /></a> </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/web3maven"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="web3maven" /></a></p><br><br>
+<!-- <h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/web3maven"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="web3maven" /></a></p><br><br> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeuhz-droid&show_icons=true&locale=en&layout=compact" alt="zeuhz-droid" /></p>
 
