@@ -1,7 +1,9 @@
 ![I am GitHub Readme Generator's creator](https://github.com/Zeuhz-Droid/Zeuhz-Droid/blob/main/Github%20profile%20header.jfif)
 
 <h1 align="center">Hi 👋, I'm Zeuhz</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A Front-End developer maven from Nigeria</h3>
+
+ *Coding as been the highlight of my life as i fell in love with it a little longer than 2yrs ago, and with the collated knowledge over the years I do a little bit of content on web design and development*
 
 - 🔭 I’m currently working on [My portfolio] (Not hosted yet.)
 
