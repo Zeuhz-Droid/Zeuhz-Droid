@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Zeuhz</h1>
 <h3 align="center">A front-end developer from Nigeria</h3>
 
- *Coding as been the highlight of my career path as i fell in love with it a little longer than 2yrs ago, although I didn't start writing codes immediately, it took me about some months added before finally making the decision to go fully into web development, and with the collated knowledge over the years, I do a little bit of content on web design and development*
+ *Coding as been the highlight of my career path as I fell in love with it a little longer than 2yrs ago, although I didn't start writing codes immediately, it took me some months before finally making the decision to delve fully into web development, and with the collated knowledge over the years, I do a little bit of content on web design and development*
 
 - 🔭 I’m currently working on [My portfolio] (Not hosted yet.)
 
