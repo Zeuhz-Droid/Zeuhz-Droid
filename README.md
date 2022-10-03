@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Front-end dev projects**
 
-- 🤝 I’m looking for help with **Fetching APIs and Classes**
+- 🤝 I’m looking for help with **Portfolio ideas and Building**
 
 - 👨‍💻 All of my projects are available at [coming soon...](coming soon...)
 
