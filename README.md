@@ -1,7 +1,7 @@
 ![I am GitHub Readme Generator's creator](https://github.com/Zeuhz-Droid/Zeuhz-Droid/blob/main/Github%20profile%20header.jfif)
 
 <h1 align="center">Hi 👋, I'm Zeuhz</h1>
-<h3 align="center">A front-end developer</h3>
+<h3 align="center">A Full Stack developer</h3>
 
  *You want it done, done correctly & Fast? Hi !*
 
