@@ -1,9 +1,9 @@
-<h1 align="center">David Adegbiran-Ayinoluwa</h1>
+<h1 align="center">David, A.A.</h1>
 <h3 align="center">Senior Software Engineer · Distributed Systems & Financial Infrastructure</h3>
 
 <p align="center">
-Building resilient, scalable backend systems for fintech at scale.<br/>
-Currently leading a Strangler-pattern migration consolidating 9 backend repositories into a unified modular platform — zero downtime.
+I build the backend systems that fintech companies bet their reliability on.<br/>
+Right now: quietly turning a tangled multi-repo platform into something a lot harder to break.
 </p>
 
 <p align="center">
@@ -11,20 +11,22 @@ Currently leading a Strangler-pattern migration consolidating 9 backend reposito
 </p>
 
 <p align="center">
-<a href="mailto:davidadegbiran2020@gmail.com"><img src="https://img.shields.io/badge/Email-davidadegbiran2020%40gmail.com-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:davidadegbiran2020@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-Visit-333333?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-<img src="https://img.shields.io/badge/Open_to-Remote%20(Global)-2ea44f?style=flat-square" alt="Open to remote"/>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-Explore-333333?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<img src="https://img.shields.io/badge/Résumé-Available_on_request-2ea44f?style=flat-square" alt="Resume on request"/>
 </p>
 
 ---
 
 ### 🔭 What I'm working on
 
-- Leading a **Strangler-pattern architecture migration** for a multi-tenant fintech platform (savings, loans, contributions, payments) — 9 fragmented repos → 10 core deployments, ~60% infrastructure cost reduction
-- Designing a **strategy-based multi-tenant authentication system** supporting 7 tenant types
-- Building an **in-process API gateway** (http-proxy-middleware + Redis feature flags) for gradual legacy-to-modern service rollout with <30ms overhead
-- Implementing **distributed locking & idempotency controls** for exactly-once financial transaction processing
+- Leading the architectural overhaul of a live, multi-tenant fintech platform — no downtime, no shortcuts
+- Rebuilding authentication for a system that has to serve very different kinds of tenants at once
+- Routing traffic between old and new systems in real time, invisibly, at scale
+- Making sure money moves exactly once, every time — no more, no less
+
+*The specifics — the numbers, the architecture diagrams, the "how" — are in the CV. Happy to send it over if you reach out.*
 
 ### 🧰 Core Stack
 
@@ -61,13 +63,12 @@ Currently leading a Strangler-pattern migration consolidating 9 backend reposito
 <img src="https://img.shields.io/badge/EVM-3C3C3D?style=flat-square&logo=ethereum&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white"/>
 <img src="https://img.shields.io/badge/Wallet%20Infra-4B5563?style=flat-square"/>
-<img src="https://img.shields.io/badge/KYC%20(Prembly)-4B5563?style=flat-square"/>
+<img src="https://img.shields.io/badge/KYC-4B5563?style=flat-square"/>
 
 **Observability**
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Feature%20Flags-4B5563?style=flat-square"/>
-<img src="https://img.shields.io/badge/A%2FB%20Testing-4B5563?style=flat-square"/>
 
 **Languages**
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -75,32 +76,20 @@ Currently leading a Strangler-pattern migration consolidating 9 backend reposito
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
 
-### 💼 Experience
+### 🛠️ A Few Things I've Built
 
-**Senior Backend Engineer** — MAJ Fintech · *May 2025 – Present*
-Leading a 14-month zero-downtime modernization of a multi-tenant fintech platform; defined bounded contexts across identity, financial services, reporting, and communication domains.
+- A crypto wallet backend handling send/receive, swaps, and virtual cards across multiple chains
+- An AI-powered agritech platform that put real-time field intelligence in the hands of everyday farmers
+- A price-tracking engine that watches vendors in real time so users don't have to
 
-**Full-Stack Developer & Engineering Lead** — PrizeSkout · *Sept 2024 – April 2025*
-Architected a multi-vendor e-commerce comparison platform in Next.js; improved product search indexing/visibility by 36% via server-side data streaming.
+*More detail on request — I'd rather talk through the interesting parts than list them out.*
 
-### 🛠️ Selected Projects
+### 🎓 Background
 
-- **Rain Wallets** — Crypto wallet platform (NestJS, PostgreSQL, GraphQL, Prisma, Bull, EVM, Bitcoin): send/receive, swaps, virtual cards, key management, UTXO handling, Prembly KYC integration
-- **AGROP** — AI-powered agritech platform (Node.js, MongoDB, TensorFlow) serving 100+ subsistence farmers with real-time weather alerts and an integrated marketplace
+Engineering-trained (chemical engineering, if you're curious how that connects to distributed systems — ask), self-taught into backend software, now building the infrastructure money runs on.
 
-### 🎓 Education & Certifications
+### 🔗 Let's Talk
 
-- B.Sc. Chemical Engineering, Obafemi Awolowo University — CGPA 4.42/5.0
-- Diploma, Software Engineering (Backend), AltSchool Africa
-- Certified Kubernetes Application Developer (CKAD) — *in progress, expected Aug 2026*
-- CS50x — Harvard/edX
+The full story — architecture decisions, metrics, the parts that don't fit in a README — is one email away.
 
-### 🔗 Connect
-
-[LinkedIn](#) · [Portfolio](#) · davidadegbiran2020@gmail.com
-
-<!--
-GitHub stats — keep if you want the visual cards on your profile
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=en)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&show_icons=true&locale=en&layout=compact)
--->
+[LinkedIn](#) · [Portfolio](#) · <a href="mailto:davidadegbiran2020@gmail.com">Email me</a>
