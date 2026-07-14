@@ -11,9 +11,9 @@ Right now: quietly turning a tangled multi-repo platform into something a lot ha
 </p>
 
 <p align="center">
-<a href="mailto:davidadegbiran2020@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="www.linkedin.com/in/zeuhz"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="www.zeuhz.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Explore-333333?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:davidadegbiran2020@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Say_hello-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/zeuhz" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.zeuhz.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Explore-333333?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 <img src="https://img.shields.io/badge/Résumé-Available_on_request-2ea44f?style=flat-square" alt="Resume on request"/>
 </p>
 
